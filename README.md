@@ -61,7 +61,7 @@ DO BOTH
 
 Requirements: Python 3.9 or higher, Anthropic API key
 
-  git clone https://github.com/maleechanel/grant-writing-assistant.git
+  git clone https://github.com/sumaleesimmonds/grant-writing-assistant.git
   cd grant-writing-assistant
   pip3 install anthropic
   export ANTHROPIC_API_KEY="sk-ant-your-key-here"
